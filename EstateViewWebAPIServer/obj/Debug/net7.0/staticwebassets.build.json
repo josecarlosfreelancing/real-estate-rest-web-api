@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nVO+XRBdwl0zKzaZAD03TVAraKt8KVOF66oCc16cWaQ=",
+  "Source": "EstateViewWebAPIServer",
+  "BasePath": "_content/EstateViewWebAPIServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
